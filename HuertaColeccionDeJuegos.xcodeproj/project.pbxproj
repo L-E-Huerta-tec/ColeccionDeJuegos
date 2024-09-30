@@ -14,6 +14,7 @@
 		8EA0B0602CAB579100D59814 /* HuertaColeccionDeJuegos.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 8EA0B05E2CAB579100D59814 /* HuertaColeccionDeJuegos.xcdatamodeld */; };
 		8EA0B0622CAB579300D59814 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8EA0B0612CAB579300D59814 /* Assets.xcassets */; };
 		8EA0B0652CAB579300D59814 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8EA0B0632CAB579300D59814 /* LaunchScreen.storyboard */; };
+		8EA0B06D2CAB616800D59814 /* JuegosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EA0B06C2CAB616800D59814 /* JuegosViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		8EA0B0612CAB579300D59814 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8EA0B0642CAB579300D59814 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8EA0B0662CAB579300D59814 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8EA0B06C2CAB616800D59814 /* JuegosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JuegosViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				8EA0B0632CAB579300D59814 /* LaunchScreen.storyboard */,
 				8EA0B0662CAB579300D59814 /* Info.plist */,
 				8EA0B05E2CAB579100D59814 /* HuertaColeccionDeJuegos.xcdatamodeld */,
+				8EA0B06C2CAB616800D59814 /* JuegosViewController.swift */,
 			);
 			path = HuertaColeccionDeJuegos;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8EA0B06D2CAB616800D59814 /* JuegosViewController.swift in Sources */,
 				8EA0B05A2CAB579100D59814 /* ViewController.swift in Sources */,
 				8EA0B0562CAB579100D59814 /* AppDelegate.swift in Sources */,
 				8EA0B0602CAB579100D59814 /* HuertaColeccionDeJuegos.xcdatamodeld in Sources */,
